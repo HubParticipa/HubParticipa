@@ -13,3 +13,13 @@ La estructura principal de este repositorio es la siguiente:
 
 ## ¿Dónde surge el Hub Participa?
 Tras una idea inicial de [Jose Manuel Rasilla Paz](https://www.linkedin.com/in/jose-manuel-rasilla-paz-3b64b6171/), con el apoyo de compañeros y profesores, surge, en la [Universidad Europea del Atlantico](https://www.uneatlantico.es/) en Diciembre de 2022, la iniciativa Hub Participa.
+
+## ¿Cómo puedo participar?
+La participación en el desarrollo esta abierta a todo el publico. Para aportar en la base y el funcionamiento del proyecto se ponen a disposición dos opciones.
+- Aportar contenido a los documentos y hacer Pull Requests
+- Utilizar los Issues de [Brainstorming](https://github.com/HubParticipa/HubParticipa/issues/2) y [Dudas](https://github.com/HubParticipa/HubParticipa/issues/1)
+- Contactanos a traves del [formulario de contacto](https://forms.gle/R899V6n8Ln95DLN58)
+
+## Quiero hacer un taller
+Si has visto en Hub Participa una herramienta que puede servirte y quieres llevar a cabo un taller, perfecto!. Tienes a tu disposición todas las herramientas que hemos desarrollado en este repositorio. La plantilla de solicitud es el punto de partida.
+Si necesitas ayuda no dudes en añadir un comentario al [Issue de contacto de nuevo taller](https://github.com/HubParticipa/HubParticipa/issues/3).
