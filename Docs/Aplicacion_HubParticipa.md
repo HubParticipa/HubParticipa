@@ -2,5 +2,10 @@
 El HubParticipa esta compuesto por un sistema de talleres. Para establecer un orden dentro del programa se establece a continuación un protocolo a seguir para realizar un taller.
 
 ## Protocolo
-El protocolo de aplicación de un taller es el siguiente: el ponente entrega una solicitud de taller al comité responsable, este lo aprueba y le entrega al ponente las herramientas que necesite, el ponente imparte el taller, se presenta un análisis final y se concluye o renueva el mismo.
+El protocolo de aplicación de un taller es el siguiente: 
+1. El ponente entrega una solicitud de taller al profesor que designe responsable
+2. El profesor lo aprueba 
+3. Se le entregan al ponente las herramientas que necesite
+4. El ponente imparte el taller
+5. El ponente presenta un análisis final que concluye o renueva el taller
 
