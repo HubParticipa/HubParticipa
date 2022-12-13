@@ -19,6 +19,7 @@ La participación en el desarrollo esta abierta a todo el publico. Para aportar 
 - Aportar contenido a los documentos y hacer Pull Requests siguiendo la [Guía de Colaboración](https://github.com/HubParticipa/HubParticipa/blob/main/GuiaDeColab.md)
 - Utilizar los Issues de [Brainstorming](https://github.com/HubParticipa/HubParticipa/issues/2) y [Dudas](https://github.com/HubParticipa/HubParticipa/issues/1)
 - Contactar a traves del [formulario de contacto](https://forms.gle/R899V6n8Ln95DLN58)
+Tenemos mucho trabajo por delante, en nuestra [ToDoList](https://github.com/HubParticipa/HubParticipa/blob/main/ToDoList.md), puedes ver los puntos más importantes.
 
 ## Quiero hacer un taller
 Si has visto en Hub Participa una herramienta que puede servirte y quieres llevar a cabo un taller, perfecto!. Tienes a tu disposición todas las herramientas que hemos desarrollado en este repositorio. La plantilla de solicitud es el punto de partida.
