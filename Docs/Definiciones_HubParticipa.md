@@ -6,7 +6,7 @@ El conjunto de las sesiones en las que un ponente expone/dirige una actuación f
 ## Solicitud de taller:
 Documento que sigue un formato establecido, en el que el ponente especifica las características, los objetivos y las motivaciones del taller.
 ## Documento de taller:
-Cuando la solicitud de taller se aprueba esta se convierte en documento de taller, va firmada por el profesor principal del comité responsable y el supervisor del taller.
+Cuando la solicitud de taller se aprueba esta se convierte en documento de taller, va firmada por el profesor responsable y el ponente del taller.
 ## Ponente:
 El alumno al que se le aprueba una solicitud de taller. Este dirige y gestiona sus sesiones y cómo evoluciona el proceso, siempre bajo el control del supervisor.
 ## Herramientas:
