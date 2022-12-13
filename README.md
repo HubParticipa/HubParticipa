@@ -16,9 +16,9 @@ Tras una idea inicial de [Jose Manuel Rasilla Paz](https://www.linkedin.com/in/j
 
 ## ¿Cómo puedo participar?
 La participación en el desarrollo esta abierta a todo el publico. Para aportar en la base y el funcionamiento del proyecto se ponen a disposición dos opciones.
-- Aportar contenido a los documentos y hacer Pull Requests
+- Aportar contenido a los documentos y hacer Pull Requests siguiendo la [Guía de Colaboración](https://github.com/HubParticipa/HubParticipa/blob/main/GuiaDeColab.md)
 - Utilizar los Issues de [Brainstorming](https://github.com/HubParticipa/HubParticipa/issues/2) y [Dudas](https://github.com/HubParticipa/HubParticipa/issues/1)
-- Contactanos a traves del [formulario de contacto](https://forms.gle/R899V6n8Ln95DLN58)
+- Contactar a traves del [formulario de contacto](https://forms.gle/R899V6n8Ln95DLN58)
 
 ## Quiero hacer un taller
 Si has visto en Hub Participa una herramienta que puede servirte y quieres llevar a cabo un taller, perfecto!. Tienes a tu disposición todas las herramientas que hemos desarrollado en este repositorio. La plantilla de solicitud es el punto de partida.
