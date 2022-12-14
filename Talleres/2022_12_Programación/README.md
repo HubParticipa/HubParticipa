@@ -1,3 +1,3 @@
 ## Taller de programación
-## Ponente: Jose Manuel Rasilla Paz
-## Aprobad por: Manuel Masías
+Ponente: Jose Manuel Rasilla Paz
+Aprobado por: Manuel Masías
